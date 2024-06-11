@@ -1,5 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Dericknorlan&icon=2&color=0)](https://visitcount.itsvg.in)
-Hi there! 👋 
+Hi there! 👋 [![](https://visitcount.itsvg.in/api?id=Dericknorlan&icon=2&color=0)](https://visitcount.itsvg.in)
 ---
 
 <!--
