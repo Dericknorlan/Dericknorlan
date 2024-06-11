@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=Dericknorlan&icon=2&color=0)](https://visitcount.itsvg.in)
+###Hi there! 👋 [![](https://visitcount.itsvg.in/api?id=Dericknorlan&icon=2&color=0)](https://visitcount.itsvg.in)
 ---
 
 <!--
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hi there! 👋 I'm Derick Norlan, and my current adventure unfolds at Ciputra University Makassar, where I'm deeply engaged in studying Informatics. Fascinated by the intersection of technology and innovation, I'm dedicated to mastering the intricacies of this field. Whether I'm deciphering complex algorithms or crafting elegant solutions, I thrive on the challenges that come with learning and growing in the digital realm. Beyond academics, I'm driven by a curiosity to explore how technology can empower individuals and communities. Let's embark on this journey together, discovering the endless possibilities that await in the dynamic world of Informatics.
+I'm Derick Norlan, and my current adventure unfolds at Ciputra University Makassar, where I'm deeply engaged in studying Informatics. Fascinated by the intersection of technology and innovation, I'm dedicated to mastering the intricacies of this field. Whether I'm deciphering complex algorithms or crafting elegant solutions, I thrive on the challenges that come with learning and growing in the digital realm. Beyond academics, I'm driven by a curiosity to explore how technology can empower individuals and communities. Let's embark on this journey together, discovering the endless possibilities that await in the dynamic world of Informatics.
 
 
 ## 🌐 Socials:
