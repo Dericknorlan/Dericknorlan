@@ -1,7 +1,5 @@
 ![Derick Norlan](img/github-header-banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dericknorlan&label=Profile%20views&color=0e75b6&style=flat" alt="dericknorlan" /> </p>
-
 ![Derick Norlan](https://github-profile-trophy.vercel.app/?username=DerickNorlan&theme=swift&no-frame=true&no-bg=true&margin-w=4)
 
 - 🌱 I’m currently learning **Python, Java, PHP, Dart, and Flutter**
@@ -20,6 +18,8 @@
 ![https://instagram.com/drck_n](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.linkedin.com/in/derick-norlan-123150299/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-![Derick Norlan](https://nirzak-streak-stats.vercel.app/?user=DerickNorlan&theme=date_night&hide_border=false)
+![Derick Norlan](https://nirzak-streak-stats.vercel.app/?user=DerickNorlan&theme=apprentice&hide_border=false)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dericknorlan&show_icons=true&locale=en&layout=compact" alt="dericknorlan" /></p>
+![Derick Norlan](https://github-readme-stats.vercel.app/api/top-langs/?username=DerickNorlan&theme=apprentice&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dericknorlan&label=Profile%20views&color=0e75b6&style=flat" alt="dericknorlan" /> </p>
