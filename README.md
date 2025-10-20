@@ -10,7 +10,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,java,php,dart,laravel,mysql,flutter,figma,linux&theme=light&perline=6)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,java,php,dart,laravel,mysql,flutter,figma,linux&theme=light&perline=6)
 
 
 
