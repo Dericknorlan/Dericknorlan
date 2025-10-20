@@ -6,7 +6,7 @@
 <!-- GitHub Trophies -->
 ![Derick Norlan](https://github-profile-trophy.vercel.app/?username=DerickNorlan&theme=swift&no-frame=true&no-bg=true&margin-w=4)
 
-<img align="right" alt="coding" width="160" src="https://media.tenor.com/nWAHKBp32sYAAAAM/kein-stress.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/nWAHKBp32sYAAAAM/kein-stress.gif">
 
 <!-- About Me -->
 - 🌱 I’m currently learning **Python, Java, PHP, Dart, and Flutter**
