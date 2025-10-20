@@ -4,7 +4,7 @@
 </br>
 
 <!-- GitHub Trophies -->
-![Derick Norlan](https://github-profile-trophy.vercel.app/?username=DerickNorlan&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![Derick Norlan](https://github-profile-trophy.vercel.app/?username=DerickNorlan&theme=&no-frame=false&no-bg=false&margin-w=4)
 
 <img align="right" alt="coding" width="300" src="https://media.tenor.com/nWAHKBp32sYAAAAM/kein-stress.gif">
 
