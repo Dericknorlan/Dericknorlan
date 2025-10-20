@@ -21,8 +21,10 @@
 
 <!-- Socials -->
 ### Connect with Me
-![https://instagram.com/drck_n](https://skillicons.dev/icons?i=instagram&theme=light&perline=6)
-![https://www.linkedin.com/in/derick-norlan-123150299/](https://skillicons.dev/icons?i=linkedin&theme=light&perline=6)
+<!-- Socials -->
+[![Instagram](https://skillicons.dev/icons?i=instagram&theme=light)](https://instagram.com/drck_n)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/derick-norlan-123150299/)
+
 
 </br>
 
