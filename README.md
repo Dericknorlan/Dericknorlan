@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Derick Norlan</h1>
-<h3 align="center">Informatics Student</h3>
+![Derick Norlan](img/github-header-banner.png)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dericknorlan&label=Profile%20views&color=0e75b6&style=flat" alt="dericknorlan" /> </p>
 
@@ -10,6 +9,22 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Dericknorlan](https://github.com/Dericknorlan)
 
 - ⚡ Fun fact **I have a lecturer who only comes to give assignments**
+
+### Skills
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></br>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
