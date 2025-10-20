@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dericknorlan](https://github.com/Dericknorlan)
 
-- ⚡ Fun fact **I have a lecturer who only comes to give assignments**
+- ⚡ Fun fact **I have a lecturer who only comes to give .....**
 
 <!-- Skills -->
 ### Skills
